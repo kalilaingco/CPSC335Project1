@@ -17,3 +17,5 @@ To execute this program, in a terminal input the commands
         ./main
   
 After this, the program should return the index of the starting city that passes the requirements.
+
+Group Members: Kali Ingco, Elton Tran, Jake Souza
