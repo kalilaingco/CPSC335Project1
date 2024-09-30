@@ -1,4 +1,4 @@
-// Developer: Kali Ingco
+// Developers: Kali Ingco, Elton Tran, Jake Souza
 // Date: 09/29/2024
 // Assignment: Project 1
 // Class: CPSC 335 Section 04
