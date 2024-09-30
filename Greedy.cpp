@@ -25,7 +25,7 @@ int main(){
 
     for(int i=0 ; i < k; i++){ //add up all elements in array gas and cost
         Mpg = mpg * gas[i]; //multiply mpg* fuel to get real number of gas 
-        leftoverFuel = Mpg - city_distances[i]; //subtract distance from mpg to get remaining gas
+        leftoverFuel = leftoverFuel + (Mpg - city_distances[i]); //subtract distance from mpg to get remaining gas
         
         Gas = Gas + (Mpg - city_distances[i]); //keeps track of gas
         if(Gas < 0){ //if Gas is less than 0, not possible starting city so reset fuel and increment city by 1
