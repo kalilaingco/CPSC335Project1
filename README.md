@@ -1,6 +1,6 @@
 # CPSC335Project1
 
-This is a solution for the Hamilotnian problem given in project 1. 
+This is a solution for the Hamiltonian problem given in project 1. 
 
 The algorithm used is the greedy algorithm. 
 
